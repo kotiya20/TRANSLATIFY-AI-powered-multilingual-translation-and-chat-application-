@@ -1,1 +1,1 @@
-# TRANSLATIFY-AI-powered-multilingual-translation-and-chat-application-
+Translatify is a multilingual translation and text-to-speech conversion application that leverages AI models to provide accurate translations and natural voice outputs. It uses Natural Language Processing (NLP) techniques and Large Language Models (LLMs), such as the Qwen-2 model, to deliver seamless text translation in various languages.The app is designed to enhance communication and language accessibility by offering both text-based translations and audio output for ease of use.
